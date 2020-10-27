@@ -5,3 +5,5 @@ Este arquivo visa facilitar a conferência de um texto onde é necessário verif
 O Arquivo deve estar em .txt.
 
 próximo passo é criar uma função que leia a lista de nomes em um arquivo .txt para criar automaticamente o vetor.
+
+melhorias feitas no localizar3
